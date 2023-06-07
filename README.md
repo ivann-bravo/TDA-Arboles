@@ -8,13 +8,13 @@ Dado "arboles.txt" se pide trabajar con TDA y ABM para crear un programa que per
 - Eliminar "Cocotero" y "Falsa Acacia".
 Se pide ir mostrando por pantalla los resultados mientras se sobreescribe el archivo de texto, respetando este formato:
 
------- ARBOL ------
-Nombre: -
-Edad: -
-Altura: -
+------ ARBOL ------ <br>
+Nombre: - <br>
+Edad: - <br>
+Altura: - <br>
 
 ## arboles.txt
-Cocotero+240+6.2
-Sauce lloron+310+5.11
-Laurel+45+3.5
-Falsa Acacia+115+12
+Cocotero+240+6.2<br>
+Sauce lloron+310+5.11<br>
+Laurel+45+3.5<br>
+Falsa Acacia+115+12<br>
